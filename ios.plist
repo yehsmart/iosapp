@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://utyehsmart.oss-cn-beijing.aliyuncs.com/version_uploadIOSIpaFile/25ed254892bf429a9097aa81f573c938.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://utyehsmart.oss-cn-beijing.aliyuncs.com/version_uploadIOSFullImageFile/4c815050ab2244288453712499097557.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://utyehsmart.oss-cn-beijing.aliyuncs.com/version_uploadIOSLogFile/3dc4d72d9fce45718ff9c7567ed2131a.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>asads</string>
+				<key>bundle-version</key>
+				<string>qw</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>asddas</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
