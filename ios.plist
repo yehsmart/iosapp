@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://utyehsmart.oss-cn-beijing.aliyuncs.com/version_uploadIOSIpaFile/6ea378737cd648fda582c58335051f70.jpg</string>
+					<string>/version_uploadIOSIpaFile/2017/07/19/19f0c15669b94b43bf62f089dfd7c494.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://utyehsmart.oss-cn-beijing.aliyuncs.com/version_uploadIOSFullImageFile/09298e4fc907493eb36e950d1fed0419.jpg</string>
+					<string>/version_uploadIOSFullImageFile/2017/07/19/3b1215ebc0854cd9b4d0bb667e118829.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://utyehsmart.oss-cn-beijing.aliyuncs.com/version_uploadIOSLogFile/681bafe81121430d9f1c6d5bb81f1d7d.jpg</string>
+					<string>/version_uploadIOSLogFile/2017/07/19/6c0706aaa34b47938c14ca4c5ad33dfe.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>asads</string>
+				<string>这是IOS版本Identifer属性</string>
 				<key>bundle-version</key>
-				<string>qw</string>
+				<string>安卓1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>asddas</string>
+				<string>这是标题</string>
 			</dict>
 		</dict>
 	</array>
