@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/version_uploadIOSIpaFile/cd5e554bed6d408c836b4d4723935d17.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/version_uploadIOSFullImageFile/fbdb33261fca4ad8ad2bcebba308bb31.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://utsmarthomeplatform.oss-cn-shenzhen.aliyuncs.com/version_uploadIOSLogFile/a1cffe77e0834eaa9606469e0e9b9d41.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.ut.UMLightBox</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>运营商站点IOSAPP</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
